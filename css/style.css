@@ -10,3 +10,17 @@
     background-color: aqua;
 }
 
+span {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+
+.par-lorem {
+    border: 10px;
+    border-color: lightgreen;
+    border-style: ridge;
+    margin: 5px;
+}
+
